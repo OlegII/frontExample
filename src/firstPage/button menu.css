@@ -1,0 +1,33 @@
+.button-menu {
+    width: 24px;
+    height: 24px;
+    background: #FFFFFF;
+    padding: 2px 2px 8px;
+    border-width: 2px;
+}
+.button img {
+    position: absolute;
+    left: 16.67%;
+    right: 16.67%;
+    top: 16.67%;
+    bottom: 16.67%;
+
+    background: #6879BB;
+}
+
+.button
+{
+
+    position: absolute;
+    left: 0%;
+    right: 0px;
+    top: 0%;
+    bottom: 0%;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+
+    font-size: 14px;
+
+    color: #6879BB;
+}
